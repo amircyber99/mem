@@ -22,33 +22,6 @@ But it must have the following features:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <title>Top Gear</title>
-  <style>
-    body{
-    background-color: black;
-    ;
-}
-h1{
-    color: white;
-    text-align: center;
-}
-h3{
-    color: white;
-    text-align: center;
-}
-div{
-    text-align: center;
-    border: 5px solid white;
-    width: 630px;
-    height: 390px;
-    margin-left: 50px;
-    margin-top: 100px;
-    
-}
-img{
-    text-align: center;
-   
-}
-  </style>
 </head>
 <body>
   <div>
